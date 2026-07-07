@@ -2,14 +2,6 @@
 
 A simple and responsive Calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations while providing a clean and user-friendly interface.
 
-## 🚀 Live Demo
-
-https://your-live-link.vercel.app
-
-> Replace the above link with your deployed project URL.
-
----
-
 ## 📸 Preview
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/059c5676-ba23-41bd-a9cd-b24f91b34a2e" />
