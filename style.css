@@ -60,3 +60,6 @@ button{
 .operator{
     color: #6dee0a;
 }
+.button:hover{
+    border: 1px solid rgb(140, 141, 139);
+}
